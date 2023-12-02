@@ -4,4 +4,5 @@ voluntariado en la fundacion Colombian Virtual Reality
 
 ---
 
-creacion de un modelo de clasificacion, para predecir si un usuario es proclibe de comprar un VIP
+- Adquisicion preprocesamiento y visualizacion de datos adquiridos de las bases de datos reales de la fundacion
+- Construccion de un modelo de mahcine learningaplicado a marketing, para predecir si un usuario es propenso a comprar una cuenta premium
